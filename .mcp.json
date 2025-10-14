@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "trident": {
+      "command": "${TRIDENT_PYTHON:-python}",
+      "args": ["trident_mcp_server.py"],
+      "env": {}
+    }
+  }
+}
